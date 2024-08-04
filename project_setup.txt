@@ -1,0 +1,24 @@
+Softwares:
+==========
+1.Install Java17 from Oralce/Open JDK
+2.IDE-IntelliJ IDEA/VS Code/Ecipse STS
+3.Git
+4.MySQL Server Community Edition
+5.MySQL Workbench
+6.POSTMAN REST client
+7.NodeJS
+
+Project Set up for Backend and Frontend
+========================================
+1.Create Spring boot project using Spring Initializer
+2.Add the dependencies
+
+
+Crate React - front end project
+================================
+1.Create React starter project using Vite
+    >npm create vite
+
+
+
+
