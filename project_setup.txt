@@ -21,4 +21,7 @@ Crate React - front end project
 
 
 
+git fetch origin
+git checkout feature/read-expenses
+
 
